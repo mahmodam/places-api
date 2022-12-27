@@ -23,5 +23,14 @@
   },
   "devDependencies": {
     "nodemon": "^1.19.4"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mahmodam/places-api.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/mahmodam/places-api/issues"
+  },
+  "homepage": "https://github.com/mahmodam/places-api#readme"
 }

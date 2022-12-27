@@ -1,0 +1,9 @@
+{
+  "env": {
+    "DB_USER": "mahmod",
+    "DB_PASS": "mahyas6252",
+    "DB_NAME": "placesproject",
+    "GOOGLE_API_KEY": "AIzaSyDtTqGNy9w19PnMq5cPtnpCiMKD-7l60Uc",
+    "JWT_KEY": "supersecret_dont_share"
+  }
+}
